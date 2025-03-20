@@ -92,23 +92,3 @@ L'utilisateur lance le script principal `myGestIOnR.sh`, qui présente un menu i
 ![menu](https://github.com/user-attachments/assets/922a8136-25fa-41b0-9d13-311e2aa2ccc9)
 ![menu-gest-parc](https://github.com/user-attachments/assets/9544c5b0-216a-47d0-bbad-f36f9a9f2305)
 ![menu-outils-reseau](https://github.com/user-attachments/assets/176e38a8-5ef8-4561-b2af-74198c17ab70)
-
-
-Exemple d'arborescence :
-```
-MyGest/
-├── myGestIOnR.sh
-├── ajout.sh
-├── consultation.sh
-├── suppression.sh
-├── modification.sh
-├── outils_ip.sh
-├── outils_ports.sh
-├── export_txt.sh
-├── scan_ip.sh
-├── config.sh
-├── fonction.sh
-├── install.sh
-└── README.md
-```
-
