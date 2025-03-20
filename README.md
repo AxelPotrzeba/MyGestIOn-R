@@ -10,6 +10,7 @@ Le projet a été réalisé en équipe :
 - **Axel Potrzeba** : Consultation et ajout de données
 - ambengue23 : Suppression et modification de données
 - Ehavox : Outils réseau
+  
 Je mets à disposition leurs liens vers leur GitHub :
 - https://github.com/ambengue23/
 - www.github.com/Ehavox
